@@ -1,18 +1,8 @@
-## If Error Showed
-
-Just Download This Whole repository And make new repo in your GitHub account and upload all the files
-
-# Video Guide
-
-https://t.me/Oshekher/27 
-
-Credit: netslutter & lrtanvir for the video 😁
-
 # Free RDP 6 HOURS
 
 it's all free, don't be stingy ⭐️ yes: D
 
-### HOW TO CREATE Oshekher-RDP
+### HOW TO CREATE Free RDP
 ```
 > Press the Fork button to create RDP (For Android / HP Users, Please Use Desktop Mode).
 
